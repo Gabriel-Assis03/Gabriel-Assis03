@@ -2,7 +2,7 @@
 ## Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,javascript,typescript,docker,react,mysql,nodejs,java,vscode,python,c#,dotnet&perline=8" />
+    <img src="https://skillicons.dev/icons?i=github,linux,html,css,javascript,typescript,docker,react,mysql,nodejs,java,vscode,python,c#,dotnet,php&perline=8" />
   </a>
 </p>
 ## GitHub Stats
