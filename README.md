@@ -1,4 +1,10 @@
 # Gabriel-Assis03-
+## Tecnologias e Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,javascript,typescript,docker,react,mysql,nodejs,java,vscode,python,c#,dotnet&perline=7" />
+  </a>
+</p>
 ## GitHub Stats
 <table>
 <tr><td>
