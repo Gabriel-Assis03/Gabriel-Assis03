@@ -38,7 +38,7 @@ Sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Form
 
 Aqui estão alguns projetos que desenvolvi:
 
-- **[Nome do Projeto 1](link-para-o-repositorio)**
+- **[Nome do Projeto 1](link-para-o-repositori)**
   - Descrição breve do projeto e das tecnologias utilizadas.
 
 - **[Nome do Projeto 2](link-para-o-repositorio)**
