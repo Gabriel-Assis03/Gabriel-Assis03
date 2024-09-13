@@ -34,19 +34,6 @@ Sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Form
 </td></tr>
 </table>
 
-## Projetos
-
-Aqui estão alguns projetos que desenvolvi:
-
-- **[Nome do Projeto 1](link-para-o-repositori)**
-  - Descrição breve do projeto e das tecnologias utilizadas.
-
-- **[Nome do Projeto 2](link-para-o-repositorio)**
-  - Descrição breve do projeto e das tecnologias utilizadas.
-
-- **[Nome do Projeto 3](link-para-o-repositorio)**
-  - Descrição breve do projeto e das tecnologias utilizadas.
-
 ## Contato
 
 - **LinkedIn:** www.linkedin.com/in/gabriel-do-carmo-assis
