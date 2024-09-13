@@ -8,7 +8,7 @@ Sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Form
 ## Formação
 
 - **Desenvolvedor Web Full Stack** - @tryber
-- **Técnico em Informática** - Instituto Federal de Ouro Branco
+- **Técnico em Informática** - Instituto Federal de Minas Gerais(IFMG)
 
 ## Tecnologias e Ferramentas
 <p align="center">
